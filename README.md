@@ -1,3 +1,4 @@
+![](./assets/preview.png)
 <h1 align="center"> Pythonophobia</h1>
 
 <p align="center">
