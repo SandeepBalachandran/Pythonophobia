@@ -34,3 +34,26 @@
   
 </p>
 <hr>
+
+# Table of contents
+
+- [Usage](#usage)
+- [Installation](#installation)
+    - [Install Editor(Visual Studio code,Sublime](#install-editor)
+    - [Install Python 3](#install-python)
+- [Contribute](#contribute)
+
+# Usage
+
+
+
+# Installation
+
+
+### Install Editor
+
+
+###  Install Python
+
+
+# Contribute
