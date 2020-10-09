@@ -1,0 +1,1 @@
+# from package.module import function_name
