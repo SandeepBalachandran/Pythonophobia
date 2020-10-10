@@ -37,23 +37,29 @@
 
 # Table of contents
 
+- [Introduction](#introduction)
 - [Usage](#usage)
 - [Installation](#installation)
-    - [Install Editor(Visual Studio code,Sublime](#install-editor)
-    - [Install Python 3](#install-python)
+    - [Install Code editor](#install-editor)
+    - [Install Python](#install-python)
 - [Contribute](#contribute)
 
-# Usage
+# Introduction
+- A fun project where you can find python programs from beginner to advanced
 
+# Usage
+- The code can be run in any of the text editors. Python needs to be installed.
+- Some projects are using external libraries. Make sure those are installed.  
 
 
 # Installation
 
-
 ### Install Editor
-
+- Use any of the Text editors or Integrated Development Environments.
+- IDEs are preferable. Ex: Pycharm
 
 ###  Install Python
-
+- Install latest python from :point_right: [here](https://www.python.org/downloads/)
 
 # Contribute
+- Feel free to contribute. :heart:
